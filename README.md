@@ -25,6 +25,7 @@ SQL> ALTER PLUGGABLE DATABASE plsql_class2024db OPEN;
 
 Pluggable database altered.
 
+![PDB2](https://github.com/user-attachments/assets/daf1d49b-f7e8-49a4-86d7-376c34f3d949)
 
 =======================================================================================================================
 
@@ -35,3 +36,9 @@ SQL> CREATE PLUGGABLE DATABASE hu_to_delete_pdb
   5                       'C:\app\king\product\21c\oradata\xe\hu_to_delete_pdb\');
 
 Pluggable database created.
+![PDB_Delet](https://github.com/user-attachments/assets/1e0acfb1-b014-4a71-ac16-88e4cc33cbc4)
+
+===============================================================================================================================
+![PDB_Removed](https://github.com/user-attachments/assets/76f0d4fd-d7ef-4ca6-acdb-ba63f71b1908)
+
+
